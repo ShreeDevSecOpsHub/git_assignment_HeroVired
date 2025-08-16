@@ -15,6 +15,9 @@ def multiply(self, a, b):
 return a * b
 
 def divide(self, a, b):
+# adding fix for the situation when 2nd number entered is "0" it shoudl give error that  Cannot devide by zero 
+if b == 0:
+raise ValueError("Cannot divide by zero.")
 
 return a / b
 

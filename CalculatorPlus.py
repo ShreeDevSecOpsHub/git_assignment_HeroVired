@@ -19,7 +19,7 @@ class Calculator:
 	# def square_root(self, x):
 	#     return math.sqrt(x)
 
-# You need to uncomment the above function and complete its implementation to add the square root feature.
+    # You need to uncomment the above function and complete its implementation to add the square root feature.
 
 if __name__ == "__main__":
 

@@ -195,7 +195,7 @@ git_assignment_HeroVired/
 ---
 
 ## 👥 Collaboration
-- Added classmates/team members as collaborators.
+- Added Deepika Narendran as collaborators.
 - Pull requests reviewed & approved before merging.
 - Followed proper Git branching strategy (`dev`, `feature/*`, `lfs`, `geometry-calculator`).
 

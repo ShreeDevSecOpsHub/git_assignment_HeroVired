@@ -12,7 +12,6 @@ class Calculator:
 		return a * b
 
 	def divide(self, a, b):
-		# adding fix for the situation when 2nd number entered is "0" it shoudl give error that  Cannot devide by zero 
 		if b == 0:
 			raise ValueError("Cannot divide by zero.")
 		return a / b
@@ -22,7 +21,7 @@ class Calculator:
 	# def square_root(self, x):
 	#     return math.sqrt(x)
 
-	# You need to uncomment the above function and complete its implementation to add the square root feature.
+    # You need to uncomment the above function and complete its implementation to add the square root feature.
 
 if __name__ == "__main__":
 
